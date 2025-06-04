@@ -1,0 +1,8 @@
+/* Tipografías personalizadas */
+body {
+  font-family: 'Kanit', sans-serif;
+}
+.wave svg, .wave2 svg {
+  display: block;
+}
+
